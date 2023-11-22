@@ -1,5 +1,3 @@
 # TodoListReactNode
 
-Uploading 2023-11-22 21-18-21.mp4…
-
-https://github.com/vipul108coder/TodoListReactNode/issues/1#issue-2006879532
+https://github.com/vipul108coder/TodoListReactNode/assets/112881501/bcec0679-b3a2-4671-b901-22b52a7e2eae
